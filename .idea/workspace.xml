@@ -1,0 +1,1307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5bf911e-e021-4a2d-ac70-cca45781513d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/img/blue-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/img/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/img/cry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/img/login_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/img/login_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/img/noname.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/img/nopic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/img/triangle_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/img/triangle_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/img/warmming.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/font/iconfont-full.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/font/iconfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/captcha.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/icomoon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/icomoon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/icomoon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/img/loading_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/img/loading_sprite_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/img/nopic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/img/vip/icon_qqlevel_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/img/vip/icon_vip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/default/img/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/default/img/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/default/img/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/default/img/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/default/img/logo-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Install/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Mp/img/app/home-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Mp/img/app/iphone_head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Mp/img/app/nav5back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Mp/img/app/shopNavCart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Mp/img/app/shopNavPath.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Mp/img/app/shopNavSides.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Mp/img/app/shopNavWx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Mp/img/app/showcase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Mp/img/app/slider-bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Mp/img/app/sprite_v5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Mp/img/app/titlebar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Mp/img/nopic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v2/bootstrap/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v2/bootstrap/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v3/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v3/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v3/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/screenshot/standard_day.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/screenshot/standard_day_meridian.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/screenshot/standard_decade.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/screenshot/standard_full.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/screenshot/standard_hour.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/screenshot/standard_hour_meridian.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/screenshot/standard_month.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/screenshot/standard_year.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/fonts/editormd-logo.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/fonts/editormd-logo.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/fonts/editormd-logo.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/qrcode/preview_phone.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/img/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/img/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/img/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/img/progress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/img/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/server/upload.rr/骞寸粓鐩涘吀锛嶆椿鍔ㄤ粙缁峗01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/server/upload.rr/骞寸粓鐩涘吀锛嶆椿鍔ㄤ粙缁峗02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/server/upload.rr/骞寸粓鐩涘吀锛嶆椿鍔ㄤ粙缁峗03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/images/icon_nav_actionSheet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/images/icon_nav_article.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/images/icon_nav_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/images/icon_nav_cell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/images/icon_nav_dialog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/images/icon_nav_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/images/icon_nav_msg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/images/icon_nav_panel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/images/icon_nav_progress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/images/icon_nav_search_bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/images/icon_nav_tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/images/icon_nav_toast.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/images/pic_article.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/images/pic_article_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/images/pic_article_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/images/vcode.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/snapshot/actionSheet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/snapshot/button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/snapshot/cell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/snapshot/dialog1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/snapshot/dialog2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/snapshot/grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/snapshot/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/snapshot/progress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/snapshot/qrcode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/snapshot/result.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/snapshot/text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/snapshot/toast1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/snapshot/toast2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/images/icon_nav_actionSheet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/images/icon_nav_article.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/images/icon_nav_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/images/icon_nav_cell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/images/icon_nav_dialog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/images/icon_nav_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/images/icon_nav_msg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/images/icon_nav_panel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/images/icon_nav_progress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/images/icon_nav_search_bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/images/icon_nav_tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/images/icon_nav_toast.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/images/pic_article.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/images/vcode.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/snapshot/button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/snapshot/cell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/snapshot/dialog1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/snapshot/dialog2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/snapshot/grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/snapshot/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/snapshot/progress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/snapshot/qrcode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/snapshot/result.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/snapshot/text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/snapshot/toast1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/snapshot/toast2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/calfweb-weixin.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/Conf/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/Controller/AddonsController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/Controller/BaseController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/Controller/IndexController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/Controller/MpController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/Controller/MpGroupController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/Controller/NodeController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/Controller/RoleController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/Controller/SettingController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/Controller/UserController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/Model/AddonsModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/Model/MpGroupModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/Model/MpModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/Model/SystemSettingModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/Model/UserGroupModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/Model/UserModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Admin/View/default/Index/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Common/Behavior/RbacBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Common/Common/function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Common/Common/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Common/Controller/CommonController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Common/View/default/Base/add.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Common/View/default/Base/common.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Common/View/default/Base/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Common/View/default/Base/lists.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Common/View/default/Public/crumb.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Common/View/default/Public/error.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Common/View/default/Public/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Common/View/default/Public/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Common/View/default/Public/nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Common/View/default/Public/sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Common/View/default/Public/success.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Common/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Home/Conf/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Home/Conf/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Home/Controller/IndexController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Home/Controller/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Home/View/default/Index/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Home/View/default/Public/common.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Home/View/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Home/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Install/Common/function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Install/Conf/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Install/Controller/IndexController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Install/Controller/InstallController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Install/Data/conf.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Install/Data/install.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Install/Data/update.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Install/View/default/Index/complete.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Install/View/default/Index/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Install/View/default/Install/step1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Install/View/default/Install/step2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Install/View/default/Install/step3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Install/View/default/Install/update.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Install/View/default/Public/error.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Install/View/default/Public/success.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Behavior/CrumbBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Behavior/EditorBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Behavior/ImportCssBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Behavior/ImportJsBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Behavior/JssdkBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Behavior/NavBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Behavior/SidenavBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Behavior/TipBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Conf/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Controller/AddonsController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Controller/ApiController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Controller/AutoReplyController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Controller/BaseController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Controller/CustomMenuController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Controller/FansController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Controller/IndexController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Controller/MaterialController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Controller/MessageController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Controller/MobileBaseController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Controller/MpController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Controller/PaymentController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Controller/SceneQrcodeController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Controller/UserController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Model/AddonEntryModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Model/AddonSettingModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Model/AddonsModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Model/MpAutoReplyModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Model/MpFansModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Model/MpMaterialModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Model/MpMessageModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Model/MpModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Model/MpRuleModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Model/MpScoreRecordModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/Model/MpSettingModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/View/default/Addons/entry.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/View/default/Addons/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/View/default/Addons/manage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/View/default/Addons/preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/View/default/Addons/rule.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/View/default/Addons/setting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/View/default/AutoReply/special.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/View/default/AutoReply/unrecognize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/View/default/CustomMenu/publish.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/View/default/Index/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/View/default/Material/detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/View/default/Material/image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/View/default/Material/news.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Mp/View/default/Material/text.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/User/Conf/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/User/Controller/PublicController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/User/Model/UserModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/User/View/default/Base/common.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/User/View/default/Public/change_password.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/User/View/default/Public/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/User/View/default/Public/profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/User/View/default/Public/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/css/register.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/js/framework.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/js/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/js/remote.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/css/frozen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/css/icon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/css/weui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/css/weui.example.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/css/weui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/icomoon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/fonts/selection.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/js/flipsnap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/js/frozen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/js/jquery-2.0.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/js/jquery-3.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/js/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/js/jssdk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/js/respond.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Common/js/zepto.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/default/css/site.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/default/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Install/css/install.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Mp/css/custom_menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Mp/css/mobile_module.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Mp/js/custom_menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/build/build.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/build/build_standalone.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/css/bootstrap-datetimepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/css/bootstrap-datetimepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/bootstrap-datetimepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.ee.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.hy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.rs-latin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.rs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/less/datetimepicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/minify.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v2/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v2/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v2/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v2/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v2/jquery/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v3/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v3/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v3/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v3/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v3/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v3/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v3/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v3/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/sample in bootstrap v3/jquery/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/_coverage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/assets/coverage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/assets/jquery-1.7.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/assets/mock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/assets/qunit-logging.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/assets/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/assets/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/assets/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/run-qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/suites/component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/suites/events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/suites/formats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/suites/inline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/suites/keyboard_navigation/2011.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/suites/keyboard_navigation/2012.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/suites/keyboard_navigation/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/suites/mouse_navigation/2011.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/suites/mouse_navigation/2012.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/suites/mouse_navigation/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/suites/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/tests.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/bootstrap-datetimepicker/tests/tests.min.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/css/editormd.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/css/editormd.preview.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/fonts/editormd-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/js/editormd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/comment/comment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/comment/continuecomment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/dialog/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/dialog/dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/display/fullscreen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/display/fullscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/display/panel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/display/placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/display/rulers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/edit/closebrackets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/edit/closetag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/edit/continuelist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/edit/matchbrackets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/edit/matchtags.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/edit/trailingspace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/fold/brace-fold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/fold/comment-fold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/fold/foldcode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/fold/foldgutter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/fold/foldgutter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/fold/indent-fold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/fold/markdown-fold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/fold/xml-fold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/hint/anyword-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/hint/css-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/hint/html-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/hint/javascript-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/hint/show-hint.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/hint/show-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/hint/sql-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/hint/xml-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/lint/coffeescript-lint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/lint/css-lint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/lint/javascript-lint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/lint/json-lint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/lint/lint.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/lint/lint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/lint/yaml-lint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/merge/merge.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/merge/merge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/mode/loadmode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/mode/multiplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/mode/multiplex_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/mode/overlay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/mode/simple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/runmode/colorize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/runmode/runmode-standalone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/runmode/runmode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/runmode/runmode.node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/scroll/annotatescrollbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/scroll/scrollpastend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/scroll/simplescrollbars.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/scroll/simplescrollbars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/search/match-highlighter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/search/matchesonscrollbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/search/matchesonscrollbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/search/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/search/searchcursor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/selection/active-line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/selection/mark-selection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/selection/selection-pointer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/tern/tern.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/tern/tern.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/tern/worker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addon/wrap/hardwrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/addons.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/codemirror.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/codemirror.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/lib/codemirror.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/lib/codemirror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/apl/apl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/apl/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/asterisk/asterisk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/asterisk/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/clike/clike.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/clike/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/clike/scala.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/clojure/clojure.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/clojure/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/cobol/cobol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/cobol/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/coffeescript/coffeescript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/coffeescript/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/commonlisp/commonlisp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/commonlisp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/css/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/css/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/css/less.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/css/less_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/css/scss.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/css/scss_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/css/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/cypher/cypher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/cypher/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/d/d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/d/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/dart/dart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/dart/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/diff/diff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/diff/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/django/django.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/django/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/dockerfile/dockerfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/dockerfile/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/dtd/dtd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/dtd/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/dylan/dylan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/dylan/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/ebnf/ebnf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/ebnf/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/ecl/ecl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/ecl/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/eiffel/eiffel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/eiffel/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/erlang/erlang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/erlang/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/forth/forth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/forth/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/fortran/fortran.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/fortran/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/gas/gas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/gas/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/gfm/gfm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/gfm/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/gfm/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/gherkin/gherkin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/gherkin/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/go/go.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/go/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/groovy/groovy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/groovy/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/haml/haml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/haml/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/haml/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/haskell/haskell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/haskell/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/haxe/haxe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/haxe/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/htmlembedded/htmlembedded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/htmlembedded/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/htmlmixed/htmlmixed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/htmlmixed/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/http/http.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/http/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/idl/idl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/idl/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/jade/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/jade/jade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/javascript/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/javascript/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/javascript/json-ld.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/javascript/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/javascript/typescript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/jinja2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/jinja2/jinja2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/julia/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/julia/julia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/kotlin/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/kotlin/kotlin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/livescript/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/livescript/livescript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/lua/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/lua/lua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/markdown/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/markdown/markdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/markdown/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/meta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/mirc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/mirc/mirc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/mllike/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/mllike/mllike.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/modelica/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/modelica/modelica.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/nginx/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/nginx/nginx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/ntriples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/ntriples/ntriples.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/octave/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/octave/octave.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/pascal/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/pascal/pascal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/pegjs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/pegjs/pegjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/perl/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/perl/perl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/php/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/php/php.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/php/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/pig/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/pig/pig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/properties/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/properties/properties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/puppet/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/puppet/puppet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/python/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/python/python.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/q/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/q/q.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/r/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/r/r.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/rpm/changes/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/rpm/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/rpm/rpm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/rst/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/rst/rst.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/ruby/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/ruby/ruby.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/ruby/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/rust/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/rust/rust.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/sass/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/sass/sass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/scheme/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/scheme/scheme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/shell/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/shell/shell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/shell/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/sieve/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/sieve/sieve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/slim/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/slim/slim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/slim/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/smalltalk/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/smalltalk/smalltalk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/smarty/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/smarty/smarty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/smartymixed/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/smartymixed/smartymixed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/solr/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/solr/solr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/soy/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/soy/soy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/sparql/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/sparql/sparql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/spreadsheet/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/spreadsheet/spreadsheet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/sql/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/sql/sql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/stex/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/stex/stex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/stex/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/stylus/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/stylus/stylus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/tcl/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/tcl/tcl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/textile/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/textile/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/textile/textile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/tiddlywiki/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/tiddlywiki/tiddlywiki.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/tiddlywiki/tiddlywiki.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/tiki/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/tiki/tiki.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/tiki/tiki.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/toml/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/toml/toml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/tornado/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/tornado/tornado.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/turtle/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/turtle/turtle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/vb/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/vb/vb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/vbscript/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/vbscript/vbscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/velocity/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/velocity/velocity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/verilog/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/verilog/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/verilog/verilog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/xml/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/xml/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/xml/xml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/xquery/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/xquery/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/xquery/xquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/yaml/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/yaml/yaml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/z80/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/mode/z80/z80.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/modes.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/3024-day.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/3024-night.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/ambiance-mobile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/ambiance.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/base16-dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/base16-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/blackboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/cobalt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/colorforth.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/eclipse.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/elegant.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/erlang-dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/lesser-dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/mbo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/mdn-like.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/midnight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/monokai.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/neat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/neo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/night.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/paraiso-dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/paraiso-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/pastel-on-dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/rubyblue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/solarized.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/the-matrix.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/tomorrow-night-bright.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/tomorrow-night-eighties.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/twilight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/vibrant-ink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/xq-dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/xq-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/codemirror/theme/zenburn.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/flowchart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/jquery.flowchart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/marked.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/prettify.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/raphael.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/sequence-diagram.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/lib/underscore.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/plugins/code-block-dialog/code-block-dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/plugins/emoji-dialog/emoji-dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/plugins/emoji-dialog/emoji.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/plugins/goto-line-dialog/goto-line-dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/plugins/help-dialog/help-dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/plugins/help-dialog/help.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/plugins/html-entities-dialog/html-entities-dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/plugins/html-entities-dialog/html-entities.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/plugins/image-dialog/image-dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/plugins/link-dialog/link-dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/plugins/plugin-template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/plugins/preformatted-text-dialog/preformatted-text-dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/plugins/reference-link-dialog/reference-link-dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/plugins/table-dialog/table-dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/editormd/plugins/test-plugin/test-plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/font-awesome-4.6.3/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/markdown-js/markdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/qrcode/jquery.qrcode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/qrcode/qrcode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/css/webuploader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/js/upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/js/webuploader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/server/fileupload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/server/preview.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/server/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/swf/Uploader.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/webuploader/swf/expressInstall.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/example.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/router.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/example/zepto.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/style/weui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/dist/style/weui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/example.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/fragment/actionsheet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/fragment/article.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/fragment/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/fragment/cell.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/fragment/dialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/fragment/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/fragment/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/fragment/msg.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/fragment/navbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/fragment/panel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/fragment/progress.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/fragment/searchbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/fragment/tab.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/fragment/tabbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/fragment/toast.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/router.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/example/zepto.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/base/fn.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/base/mixin/mobile.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/base/mixin/setArrow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/base/mixin/setChecked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/base/mixin/setOnepx.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/base/mixin/text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/base/reset.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/base/variable/global.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/base/variable/monokai.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/base/variable/weui_button.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/base/variable/weui_cell.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/base/variable/weui_grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/base/variable/weui_msg.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/base/variable/weui_progress.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/icon/weui_font.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/icon/weui_icon_font.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/weui.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_button/weui_btn_default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_button/weui_btn_disabled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_button/weui_btn_global.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_button/weui_btn_plain.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_button/weui_btn_primary.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_button/weui_btn_warn.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_button/weui_button.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_cell/weui_access.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_cell/weui_cell_global.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_cell/weui_check.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_cell/weui_check/weui_check_common.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_cell/weui_check/weui_checkbox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_cell/weui_check/weui_radio.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_cell/weui_form.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_cell/weui_form/weui_form_common.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_cell/weui_form/weui_select.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_cell/weui_form/weui_select_after.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_cell/weui_form/weui_select_before.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_cell/weui_form/weui_vcode.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_cell/weui_switch.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_cell/weui_uploader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_grid/weui_grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_media_box/weui_media_box.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_page/weui_article.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_page/weui_msg.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_panel/weui_panel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_progress/weui_progress.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_searchbar/weui_searchbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_tab/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_tab/tabbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_tab/weui_tab.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_tips/weui_actionsheet.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_tips/weui_dialog.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_tips/weui_mask.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Plugins/weui-master/src/style/widget/weui_tips/weui_toast.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Common/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Conf/convention.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Conf/debug.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Lang/en-us.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Lang/pt-br.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Lang/zh-cn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Lang/zh-tw.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/BuildLiteBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/CheckLangBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/ContentReplaceBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/ParseTemplateBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/ReadHtmlCacheBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/ShowPageTraceBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/ShowRuntimeBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/TokenBuildBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/WriteHtmlCacheBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Org/Util/Rbac.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Org/Util/UploadFile.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/App.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Behavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Build.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Apachenote.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Apc.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Db.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Eaccelerator.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/File.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Memcache.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Memcached.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Memcachesae.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Redis.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Shmop.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Sqlite.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Wincache.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Xcache.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Controller.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Controller/RestController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Driver.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Driver/Firebird.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Driver/Mongo.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Driver/Oracle.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Driver/Pgsql.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Driver/Sqlsrv.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Lite.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Dispatcher.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Exception.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Hook.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Log.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Log/Driver/File.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Log/Driver/Sae.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Model.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Page.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Route.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Storage.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Storage/Driver/File.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Storage/Driver/Sae.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template/Driver/Ease.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template/Driver/Lite.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template/Driver/Mobile.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template/Driver/Smart.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template/Driver/Smarty.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template/TagLib.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template/TagLib/Cx.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template/TagLib/Html.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Think.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Bcs.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Bcs/bcs.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Bcs/mimetypes.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Bcs/requestcore.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Ftp.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Local.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Qiniu.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Qiniu/QiniuStorage.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Sae.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Upyun.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Think/View.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/GeeTest/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/GeeTest/geetestlib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WechatPaySdk/SDKRuntimeException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WechatPaySdk/WxPay.pub.config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/WechatPaySdk/WxPayPubHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/WechatSdk/JsSdk.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/WechatSdk/SDKRuntimeException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/WechatSdk/Wechat.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/WechatSdk/WxPay.pub.config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Library/WechatSdk/WxPayPubHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Mode/common.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/ThinkPHP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Tpl/dispatch_jump.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Tpl/page_trace.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThinkPHP/Tpl/think_exception.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/license.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="douchat.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="douchat" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="calfweb-weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="calfweb-weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="calfweb-weixin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="calfweb-weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="calfweb-weixin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Data" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5bf911e-e021-4a2d-ac70-cca45781513d" name="Default" comment="" />
+      <created>1478765886177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1478765886177</updated>
+      <workItem from="1478765888026" duration="972000" />
+      <workItem from="1478767513813" duration="37000" />
+      <workItem from="1478767638214" duration="181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1190000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/install.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/product.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="44" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/notify.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
